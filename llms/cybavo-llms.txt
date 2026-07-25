@@ -1,0 +1,18 @@
+# CYBAVO
+
+> Digital asset security company (founded 2018, Taipei/Singapore) providing institutional-grade cryptocurrency custody (CYBAVO Vault, MPC-based) and the CYBAVO Wallet App SDK for embedding secure private-key storage into mobile apps. Acquired by Circle in June 2022; technology folded into Circle Programmable Wallets / Web3 Services. The cybavo.com developer surface has been wound down (redirects to circle.com); the first-party @cybavo SDKs remain published on npm.
+
+## Status
+- Acquired by Circle Internet Financial, June 2022
+- Backed by 500 Global
+- Website https://cybavo.com now redirects to https://www.circle.com/
+
+## Packages
+- [@cybavo/react-native-wallet-service (npm)](https://www.npmjs.com/package/@cybavo/react-native-wallet-service): React Native binding for the CYBAVO Wallet SDK — create wallet, query balances, execute cryptocurrency payments (Apache-2.0).
+- [@cybavo/react-native-auth-service (npm)](https://www.npmjs.com/package/@cybavo/react-native-auth-service): React Native binding for the CYBAVO AUTH SDK.
+
+## Source
+- [circlefin/cybavo-hw-sdk-reactnative (GitHub)](https://github.com/circlefin/cybavo-hw-sdk-reactnative): repository the surviving CYBAVO SDKs are maintained under.
+
+## Successor
+- [Circle Programmable Wallets](https://www.circle.com/programmable-wallets): the current product line built on CYBAVO technology.

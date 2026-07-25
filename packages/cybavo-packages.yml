@@ -1,0 +1,27 @@
+generated: '2026-07-18'
+method: searched
+source: npm registry (@cybavo scope)
+note: >-
+  CYBAVO was acquired by Circle in 2022 and its technology folded into Circle
+  Programmable Wallets / Web3 Services. The @cybavo npm scope remains published
+  and is still maintained under Circle's circlefin GitHub organization; these are
+  the surviving first-party client libraries for the CYBAVO Wallet App SDK.
+packages:
+- language: javascript
+  registry: npm
+  name: "@cybavo/react-native-wallet-service"
+  version: 1.2.304
+  license: Apache-2.0
+  url: https://www.npmjs.com/package/@cybavo/react-native-wallet-service
+  install: npm install @cybavo/react-native-wallet-service
+  repository: https://github.com/circlefin/cybavo-hw-sdk-reactnative
+  description: React Native binding for the CYBAVO Wallet SDK (create wallet, query balances, execute cryptocurrency payments).
+  official: true
+- language: javascript
+  registry: npm
+  name: "@cybavo/react-native-auth-service"
+  version: 1.0.80
+  url: https://www.npmjs.com/package/@cybavo/react-native-auth-service
+  install: npm install @cybavo/react-native-auth-service
+  description: React Native binding for the CYBAVO AUTH SDK.
+  official: true
